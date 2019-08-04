@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\stiag\source\repos\draw-lines\source.cpp(44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\stiag\source\repos\draw-lines\source.cpp(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\stiag\source\repos\draw-lines\source.cpp(56): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\stiag\source\repos\draw-lines\source.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\stiag\source\repos\draw-lines\source.cpp(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\stiag\source\repos\draw-lines\source.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\stiag\source\repos\draw-lines\source.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\stiag\source\repos\draw-lines\source.cpp(82): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\stiag\source\repos\draw-lines\source.cpp(99): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Draw-Lines.vcxproj -> C:\Users\stiag\source\repos\Draw-Lines\Debug\Draw-Lines.exe
