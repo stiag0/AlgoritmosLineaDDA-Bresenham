@@ -116,7 +116,7 @@ int main(int argc, char** argv)
 
 	glutInitWindowPosition(300, 100);
 
-	glutCreateWindow("Aprendiendo C++ creando juegos 2D en VS2019 y OpenGL");
+	glutCreateWindow("dibujando lineas DDA & Bresenham 2D  OpenGL freeglut");
 
 	glClearColor(1.0, 1.0, 1.0, 0.0);
 
